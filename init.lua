@@ -1,0 +1,4 @@
+require("thekaiyin")
+print("hello!")
+
+
