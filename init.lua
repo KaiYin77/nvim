@@ -1,4 +1,4 @@
 require("thekaiyin")
-print("hello!")
+print("welcome to thekaiyin nvim !!")
 
 
